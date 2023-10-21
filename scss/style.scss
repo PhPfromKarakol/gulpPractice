@@ -1,0 +1,13 @@
+$color: rgb(205, 94, 94);
+
+body{
+    background: $color;
+    h1{
+        font-weight: 700;
+    }
+}
+
+
+a  {
+    transition: all 0.5s ease-in;
+}
